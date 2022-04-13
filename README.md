@@ -1,9 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Ezra</h1>
+<h3 align="center">A passionate problem solver to make the world a little more relaxing.</h3>
 
-<!--
-**ezra-casas/ezra-casas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezra-casas&label=Profile%20views&color=0e75b6&style=flat" alt="ezra-casas" /> </p>
 
--->
-Currently learning React, Rust and Python.<br>
-Currently looking to collaborate with some non profits of interest.<br>
-You can reach me at Twitter
+- I'm interested in developing **VR hardware (Gloves, headset, etc)**
+
+- 🌱 I’m currently learning **C++, JavaScript, React.js, Ruby On Rails**
+
+- 💬 Ask me about **JavaScript & Reac.js**
+
+- Hobbies include, but not limited to... **3D sculpting, Drawing, Video Games, VR Games**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
