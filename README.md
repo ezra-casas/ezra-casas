@@ -5,7 +5,7 @@
 
 - I'm interested in developing **VR hardware (Gloves, headset, etc)**
 
-- 🌱 I’m currently learning **C++, JavaScript, React.js, Ruby On Rails**
+- 🌱 I’m currently learning **JavaScript, React.js, Swift**
 
 - 💬 Ask me about **JavaScript & Reac.js**
 
