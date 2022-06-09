@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, Swift, Python, Ruby**
 
-- 💬 Ask me about **JavaScript & Reac.js**
+- 💬 Ask me about **JavaScript & React.js**
 
 - Hobbies include, but not limited to... **3D sculpting, Drawing, Video Games, VR Games**
 
