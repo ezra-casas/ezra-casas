@@ -5,7 +5,7 @@
 <p>I'm a Latino from Mexico and have had a passion for since the moment I saw Spider-man Into the Spiderverse. While prior to that, I was in love with</b> The Matrix, Mr. Robot. And those movies and series gave me the push to towards to learn how to code.</p>
 - I'm interested in developing **VR hardware (Gloves, headset, etc)**
 
-- 🌱 I’m currently learning **JavaScript, React.js, Swift, Python, Ruby**
+- 🌱 I’m currently learning **JavaScript, React.js, Swift, Python, Ruby, Vue**
 
 - 💬 Ask me about **JavaScript & React.js**
 
