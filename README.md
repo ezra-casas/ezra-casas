@@ -1,15 +1,20 @@
 <h1 align="center">Hello! I'm Ezra</h1>
-<h3 align="center">A passionate problem solver to make the world a little more relaxing. </h3>
+<h3 align="center">A passionate problem solver ready to make the world a little more relaxing. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezra-casas&label=Profile%20views&color=0e75b6&style=flat" alt="ezra-casas" /> </p>
-<p>I'm a Latino from Mexico and have had a passion for since the moment I saw Spider-man Into the Spiderverse. While prior to that, I was in love with</b> The Matrix, Mr. Robot. And those movies and series gave me the push to towards to learn how to code.</p>
-- I'm interested in developing **VR hardware (Gloves, headset, etc)**
+<p>I'm a Latino from Mexico and have had a passion for anything related to computers since I was 11 years old. I have been in love with The Matrix, Mr. Robot. Those movies and series encouraged me to learn how to code.</p>
 
 - 🌱 I’m currently learning **JavaScript, React.js, Swift, Python, Ruby, Vue**
 
 - 💬 Ask me about **JavaScript & React.js**
 
-- Hobbies include, but not limited to... **3D sculpting, Drawing, Video Games, VR Games**
+- My hobbies include, but are not limited to... **3D sculpting, Drawing, Video Games, and VR Games**
+<p>Constructed a server with Express to create an API using NodeJS  via JavaScript and Designed a verification algorithm using NodeJS and Express to eliminate duplicate accounts</p>
+
+<p>Developed a To Do App with React Hooks to track task completion and styled mobile friendly app utilizing Bulma to improve responsive
+<br>
+<p>A weather app that gives daily report of the weather utilizing ReacJS and Axios to use the weatherapi API</p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
