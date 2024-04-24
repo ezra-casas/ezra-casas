@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Kana King ( WIP )**
 
-- 🌱 I’m currently learning **Swift - Hacking With Swift, SwiftUI**
+- 🌱 I’m currently learning **Godot - Game Development**
 
-- 👯 I’m looking to collaborate on [Signal](https://github.com/signalapp)
+- 👯 I’m looking to collaborate on [Signal](https://github.com/signalapp) and [Godot](https://github.com/godotengine/godot)
 
 - 👨‍💻 All of my projects are available at [github.com/ezra-casas](github.com/ezra-casas)
 
